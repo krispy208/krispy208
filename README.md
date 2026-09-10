@@ -1,16 +1,77 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**krispy208/krispy208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey, I'm Kyle 👋
 
-Here are some ideas to get you started:
+Computer Science Graduate Student · Full-Stack Developer · AI Builder
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build practical applications with modern web technologies, Python, and AI.
+
+
+
+
+</div>
+
+About Me
+
+🎓 Computer Science graduate student at San Diego State University
+
+💻 Interested in full-stack development, real-time systems, and AI-powered applications
+
+🧠 Currently learning more about scalable backends, cloud technologies, and agentic AI
+
+🚀 Looking for software engineering internship opportunities
+
+Featured Projects
+
+📊 Real-Time System Monitor
+
+A full-stack dashboard that simulates system telemetry and streams CPU, memory, temperature, and latency updates in real time. It classifies system health, generates alerts, and stores historical readings for later analysis.
+
+Built with: React, TypeScript, FastAPI, WebSockets, SQLite, Tailwind CSS, Recharts
+
+View Repository
+
+🎨 Art Commission Platform
+
+A full-stack marketplace that helps artists showcase their work, manage commission requests, and connect with clients. The project includes user authentication, artist profiles, portfolio management, and a structured commission workflow.
+
+Built with: Next.js, TypeScript, Python, REST APIs, PostgreSQL, Tailwind CSS
+
+View Repository
+
+Tech Stack
+
+Languages
+
+
+
+
+
+
+
+
+Frameworks and Tools
+
+
+
+
+
+
+
+
+
+GitHub Activity
+
+<div align="center">
+
+
+
+
+
+</div>
+
+<div align="center">
+
+Let's build something useful.
+
+</div>
